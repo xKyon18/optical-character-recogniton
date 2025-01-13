@@ -15,7 +15,11 @@ Consist of:
 *   10000 Test images for evaluation.
 
 ## Model Architecture
-* Add Architecture
+* Convolutional Layer with ReLU Activation
+* Maxpool Layer with Dropout of 50%
+* Linear Layer with ReLU Activation
+* Linear Layer
+* Softmax
 
 ## Results
 *   Model achieved ~98% accuracy on training phase on MNIST test set.
